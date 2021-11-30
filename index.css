@@ -8,7 +8,7 @@ body {
 .container {
     height:100vh;
     font-family: 'Inconsolata', monospace;
-    padding: 40px 70px 20px 70px;
+    padding: 40px 70px 0px 70px;
     width:100%;
 }
 h3 {
@@ -20,7 +20,7 @@ h3 {
     margin-top:200px;
     flex-direction: row;
     justify-content: center;
-    gap:100px;
+    gap:50px;
 }
 .content-section-left > img {
     width:100%;
@@ -76,6 +76,7 @@ h2 {
         height:auto;
     }
     .content-section {
+        margin-top:100px;
         flex-direction: column;
     }
     .bottom {
