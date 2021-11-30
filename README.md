@@ -37,8 +37,8 @@
 
 ## Overview
 
-![screenshot](/DevChallenge-1/screenshots/desktop.png)
-![screenshot](/DevChallenge-1/screenshots/mobile.png)
+![screenshot](/screenshots/desktop.png)
+![screenshot](/screenshots/mobile.png)
 
 - It was a awesome experience for me to enhance my UI things (HTML , CSS)
 - Learned few aspects of box model work
